@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">INFO WISATA</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="intro_1_title">SELAMAT DATANG di INFO WISATA</string>
+    <string name="intro_1_desc">  </string>
+
+    <string name="intro_2_title">WISATA</string>
+    <string name="intro_2_desc">Temukan Wisata Menarik di PURWAKARTA</string>
+
+    <string name="intro_3_title">INFO WISATA</string>
+    <string name="intro_3_desc">Terdapat Informasi Wisata PURWAKARTA</string>
+
+    <string name="intro_4_title">SELAMAT DATANG</string>
+    <string name="intro_4_desc">Semoga APP Ini Dapat Menjadi GuideMu ^ - ^ </string>
+
+
+</resources>
